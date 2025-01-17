@@ -2,6 +2,8 @@
 
 This is the repository for the programs and scripts used in the "In-depth evaluation of cross-domain language identification methods" research project.
 
+The research paper can be found [here](https://raw.githubusercontent.com/victorcabre/langid-cross-domain-eval/main/paper.pdf). The GEP document (project planning and execution document) can be found [here](https://raw.githubusercontent.com/victorcabre/langid-cross-domain-eval/main/gep.pdf).
+
 ## Folder structure and file information
 
 The repository is structured as follows:
